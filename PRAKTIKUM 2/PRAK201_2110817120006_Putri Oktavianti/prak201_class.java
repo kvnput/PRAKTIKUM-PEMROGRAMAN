@@ -6,14 +6,12 @@ public class prak201_class {
     int beli;
     int harga;
     
-/*
     public prak201_class (String n, int h, float br, int bl){
         nama = n;
         harga = h;
         berat = br;
         beli = bl;
-    }
-*/  
+    }  
     
     public void resi (){
         System.out.println("Nama Mangga : " + nama);
